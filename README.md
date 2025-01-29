@@ -1,6 +1,6 @@
-# 50 Projects in 50 Days - HTML/CSS and JavaScript
+# Design To Ui conversion tasks.
 
-This is the main repository for all of the projects in the course containing 50 projects in 50 days .
+This is the main repository for all of the projects that i got in aexonic technologies.
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
